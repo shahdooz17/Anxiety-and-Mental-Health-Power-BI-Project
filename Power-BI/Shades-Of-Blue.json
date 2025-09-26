@@ -1,0 +1,26 @@
+{
+  "name": "Mental Health Blue Theme",
+  "dataColors": [
+    "#2196F3", 
+    "#90CAF9", 
+    "#1976D2", 
+    "#BBDEFB", 
+    "#42A5F5", 
+    "#64B5F6", 
+    "#E3F2FD",
+    "#0D47A1"
+  ],
+  "background": "#F8F9FA",
+  "secondaryBackground": "#FFFFFF",
+  "foreground": "#212529",
+  "foregroundNeutralSecondary": "#6C757D",
+  "foregroundNeutralTertiary": "#ADB5BD",
+  "tableAccent": "#2196F3",
+  "good": "#4CAF50",
+  "neutral": "#FF9800",
+  "bad": "#F44336",
+  "maximum": "#2196F3",
+  "center": "#1976D2",
+  "minimum": "#BBDEFB",
+  "null": "#ADB5BD"
+}
